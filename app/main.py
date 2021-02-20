@@ -1,4 +1,3 @@
-import os
 from os.path import dirname, realpath, abspath, join
 import numpy as np
 import pickle
